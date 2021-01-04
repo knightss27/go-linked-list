@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/knightss27/LinkedList/pkg/list"
+	"github.com/knightss27/go-linked-list/pkg/list"
 )
 
 func main() {
